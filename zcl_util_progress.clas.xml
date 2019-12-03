@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_UTIL_PROGRESS</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>Util - Progress Indicator</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>SEP</KEY>
+     <ENTRY>de</ENTRY>
+     <LENGTH>12</LENGTH>
+    </item>
+   </TPOOL>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_PROGRESS</CLSNAME>
+     <CMPNAME>BUILD_TEXT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Construir texto progreso</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_PROGRESS</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_PROGRESS</CLSNAME>
+     <CMPNAME>MV_EVERY</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Mostrar visor cada N veces</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_PROGRESS</CLSNAME>
+     <CMPNAME>MV_SEP</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Separador contadores texto progreso</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_PROGRESS</CLSNAME>
+     <CMPNAME>MV_TEXT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Texto de progreso</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_PROGRESS</CLSNAME>
+     <CMPNAME>MV_TOTAL</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Número total del visor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_PROGRESS</CLSNAME>
+     <CMPNAME>NEW_INDICATOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Nuevo indicador de progreso</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_PROGRESS</CLSNAME>
+     <CMPNAME>SHOW</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Mostrar visor de progreso</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
